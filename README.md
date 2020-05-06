@@ -1,1 +1,1 @@
-# ramda-playground
+# RamdaJs Playground
